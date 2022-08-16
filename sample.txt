@@ -1,1 +1,1 @@
-sample git rep.
+sample git repository.
